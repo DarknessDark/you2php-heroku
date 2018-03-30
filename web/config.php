@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', getenv("APIKEY"));
-define('GJ_CODE', getenv("GJ_CODE"));
-define('SITE_NAME',getenv("SITE_NAME"));
-define('TITLENAME', getenv("TITLENAME"));
+define('APIKEY', getenv("AIzaSyDMpSz-G-QrlpN26soA8g7KhjGwYuPTqmE"));
+define('GJ_CODE', getenv("HK"));
+define('SITE_NAME',getenv("MyYouTube"));
+define('TITLENAME', getenv("MyYouTube"));
 define('EN2DEKEY',getenv("EN2DEKEY"));
-define('EMAIL', getenv("EMAIL"));
+define('EMAIL', getenv("p1171498212@gmail.com"));
 ?>
